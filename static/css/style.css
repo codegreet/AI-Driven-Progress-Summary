@@ -1,0 +1,16 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background: #f4f8fc;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    padding: 30px;
+    max-width: 600px;
+    margin: auto;
+}
